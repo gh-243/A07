@@ -2,6 +2,9 @@
 :root {
 	--global-color-1: #800000;
 }
+html {
+	background-color: white;
+}
 
 /* the styles for the elements */
 body {
