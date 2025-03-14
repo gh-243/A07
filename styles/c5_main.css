@@ -1,4 +1,8 @@
 /* custom property */
+* {
+	box-sizing: border-box;
+	marging: 0;
+	padding: 0;
 :root {
 	--global-color-1: #800000;
 }
@@ -85,5 +89,5 @@ footer {
 footer p {
 	text-align: center;
 	padding: 1em 0;
-	font-color: white;
+	color: white;
 }
