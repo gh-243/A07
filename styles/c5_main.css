@@ -12,7 +12,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width:600px;
-    border: 3px fill #931420;
+    border: 3px solid #931420;
     background-color: #fffded
 }
 a:focus, a:hover {
