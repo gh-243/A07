@@ -22,7 +22,7 @@ a:focus, a:hover {
 	font-style: italic;
 }
 header {
-	 border: 3px solid #931420;
+	 border-bottom: 3px solid #931420;
 }
 /* the styles for the header */
 header h2 {
