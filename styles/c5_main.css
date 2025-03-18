@@ -51,6 +51,8 @@ header img {
 }
 /* the styles for the main content */
 main {
+	padding-right: 30px;
+	padding-left: 30px;
 	clear: left;
 }
 main h1 {
