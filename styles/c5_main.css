@@ -31,6 +31,7 @@ header {
          padding-right: 30px;
          padding-left: 30px;
 	 border-bottom: 3px solid #931420;
+	 background-image: linear-gradient(30deg,#f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 }
 /* the styles for the header */
 header h2 {
